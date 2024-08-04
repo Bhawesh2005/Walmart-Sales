@@ -36,5 +36,33 @@ All these values have been ignored while calculating average rating for each of 
 
 - Step 14 : Calculated column was created in which, customers were grouped into various age groups.
 
+# Walmart Sales Dashboard Insights
+
+## 📊 Key Insights
+
+### 1. **Annual Sales and Profit**
+   - The total sales for the year amounted to **$154.9K**, while the total profit was **$21.95K**, indicating a profit margin of approximately **14.2%**.
+
+### 2. **Seasonal Trends**
+   - Sales peaked during **December**, driven by holiday shopping, but profit saw significant increases in **April, May, June**, and **December**, highlighting effective cost management and high-margin product sales during these months.
+
+### 3. **Regional Performance**
+   - **California** emerged as the top-performing state, boasting the highest sales and profit figures.
+
+### 4. **Payment Methods**
+   - The most preferred mode of payment was **online**, followed by **Cash on Delivery (COD)** and **credit cards**.
+
+### 5. **Delivery Efficiency**
+   - The average delivery time for online orders was **4 days**, indicating efficient logistics and prompt service.
+
+### 6. **Product Performance**
+   - **Phones** were the highest selling product, while **furniture** was the leading category in sales.
+
+### 7. **Regional Sales and Profit**
+   - The **Central** region dominated both sales and profit figures, followed by the **West**, **East**, and **South** regions, respectively.
+
+---
+
+By analyzing these insights, Walmart can enhance strategic planning, optimize regional performance, and improve overall customer satisfaction.
 
         
