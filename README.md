@@ -4,6 +4,8 @@
 
 The objective is to develop a comprehensive and interactive sales dashboard using Power BI to empower Walmart's management and operational teams with real-time insights into sales performance, trends, and key metrics across various dimensions. The dashboard should facilitate data-driven decision-making, enhance visibility into sales operations, and identify areas for improvement.
 
+
+
 ![Screenshot 2024-08-04 151403](https://github.com/user-attachments/assets/67e880a6-06a5-4605-a46f-ac601430782f)
 
 
