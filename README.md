@@ -1,4 +1,4 @@
-# Satvik's Walmart-Sales-Dashboard.
+# Bhawesh's Walmart-Sales-Dashboard.
 
 ## Problem Statement
 
@@ -7,9 +7,6 @@ The objective is to develop a comprehensive and interactive sales dashboard usin
 
 
 ![Screenshot 2024-08-04 151403](https://github.com/user-attachments/assets/67e880a6-06a5-4605-a46f-ac601430782f)
-
-### PowerBI Link-
-https://app.powerbi.com/groups/me/reports/0fb0a0bd-86be-42a1-adbf-afb1ef698061/ReportSection?experience=power-bi
 
 ### Steps followed 
 
